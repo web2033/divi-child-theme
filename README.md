@@ -5,4 +5,6 @@ Browsers tend to cache CSS and JS files. Using this method we can be assured tha
 Tested up to (August 2019):
 
 - WordPress 5.2.2
-- Divi 3.27 
+- Divi 3.27
+
+![Divi Child Theme](screenshot.png "Divi Child Theme")
